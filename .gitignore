@@ -128,3 +128,6 @@ ENV/
 
 #session
 flask_session/
+
+# Redis
+dump.rdb
